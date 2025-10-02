@@ -1,0 +1,47 @@
+<html lang ="es-mx">
+<body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <h1>CETIS47</h1>
+    </head>
+</body>
+    <nav>
+        <ul>
+            <li><a href="LINK PAGINA">opcion 1 </a></li>
+            <li><a href="#">opcion 2 </a></li>
+            <li><a href="#">opcion 3</a></li>
+            <li><a href="#">opcion 4 </a></li>
+            <li><a href="#">opcion 5 </a></li>
+            <li><a href="#">opcion 6 </a></li>
+        </ul>
+        <form action="">
+            <input type="search" name="question" placeholder="buscar"/>
+<input type="submit" value="¡vamos!"/>
+        </form>
+    </nav>
+<main>
+    <article>
+        <h2>titulo del articulo</h2>
+        <iframe width="380" height="80" src="">
+        </iframe>
+        <p>Lorem .</p>
+        <h3>subtitulo</h3>
+        <p>lorem.</p>
+    </article>
+    <aside>
+        <h2>relacionado</h2>
+        <ul>
+            <li><a href="#">sition1</a></li>
+            <li><a href="#">sition2</a></li>
+            <li><a href="#">sition3</a></li>
+        </ul>
+    </aside>
+
+</main>
+<footer>
+    <p>todos los derechos reservados 2025</p>
+</footer>
+</html>
+
+
